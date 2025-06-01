@@ -1,0 +1,4 @@
+theme: minima
+title : Congocalypse MAH!gazine
+description : Les dernières nouvelles à Congocalypse
+author : jeannus
