@@ -1,4 +1,5 @@
 ---
 title : Congocalypse MAH!gazine
 ---
-![image](https://github.com/user-attachments/assets/abac10b7-70dd-4f04-a8cd-6adafc12d123)
+![image](https://github.com/user-attachments/assets/43841aeb-b72c-4c5a-8e22-1fe852011f53)
+
