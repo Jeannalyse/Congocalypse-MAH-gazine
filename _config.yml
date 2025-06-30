@@ -2,16 +2,3 @@ theme : minima
 title: Congocalypse MAH!gazine
 description : Les dernières nouvelles à Congocalypse
 author : jeannus et trouduque
-baseurl: "/Minimal-Text"
-excerpt_separator: "<!-- more -->"
-markdown: kramdown
-gems:
-- jekyll-paginate
-exclude:
-  - .jekyll-metadata
-  - README.md
-  - CNAME
-paginate: 5
-paginate_path: "/:num/"
-highlighter: rouge
-permalink: pretty
